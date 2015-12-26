@@ -1,0 +1,6 @@
+{
+    "port": "3007",
+    "forward": {
+        "/api/": "http://a.4cdn.org"
+    }
+}
